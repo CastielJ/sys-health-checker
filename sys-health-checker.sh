@@ -7,7 +7,7 @@ SERVICES=(ssh apache2 nginx mysql)
 
 print_banner() {
   echo "==============================="
-  echo "     SYSTEM HEALTH CHECK      "
+  echo "SYSTEM HEALTH CHECK by CastielJ"
   echo "==============================="
 }
 

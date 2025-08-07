@@ -27,12 +27,8 @@ Has features like failed service recovery, network checks, memory usage, package
 
 | Tool         | Purpose                      | Install with                     |
 |--------------|------------------------------|----------------------------------|
-| `neofetch`   | System summary               | `sudo apt install git -y
-git clone https://github.com/dylanaraps/neofetch
-cd neofetch
-sudo make install
-`     |
-| `chkrootkit` | Rootkit scanner (optional)   | `sudo apt install chkrootkit`   |
+| `neofetch`   | System summary               | `sudo apt install neofetch`      |
+| `chkrootkit` | Rootkit scanner (optional)   | `sudo apt install chkrootkit`    |
 
 Other commands used (and usually pre-installed): `top`, `free`, `ps`, `df`, `ss`, `who`, `uptime`, `awk`, `sed`, `systemctl`, `ip`, `ping`, etc.
 

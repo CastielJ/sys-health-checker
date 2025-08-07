@@ -3,6 +3,7 @@
 # sys-health-checker.sh
 # A system health checker
 # Created by CastielJ, 2025
+# Version 2.0
 
 SERVICES=(ssh apache2 nginx mysql)
 
